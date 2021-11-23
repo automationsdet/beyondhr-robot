@@ -1,0 +1,7 @@
+"""Reimbursement"""
+reimbursement_icon = "//i[@class='m-menu__link-icon flaticon-truck']"
+local_travel_option = "(//span[normalize-space()='Local Travel'])[1]"
+claim_request_option = "//span[@class='m-menu__link-text'][normalize-space()='Claim Request']"
+reimbursement_page_header = "//h3[normalize-space()='Reimbursement Claim Details']"
+apply_claim_btn = "//button[contains(text(),'Apply')]"
+reimbursement_claim_header = "//h3[normalize-space()='Reimbursement Claim Form']"
